@@ -1,6 +1,5 @@
 ## Hi everyone 👋
 
-<!--
 ## 👋 About Me
 
 I am an Embedded Software Engineer specializing in C/C++ development. I am passionate about building robust, efficient, and scalable embedded solutions for real-world applications.
@@ -19,4 +18,3 @@ I am an Embedded Software Engineer specializing in C/C++ development. I am passi
 - **LinkedIn:** [phamvanhuong](https://www.linkedin.com/in/phamvanhuong/)
 - **GitHub:** [HuongpvBN](https://github.com/HuongpvBN)
 - ⚡ Fun fact: ...
--->
